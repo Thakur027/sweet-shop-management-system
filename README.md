@@ -89,6 +89,16 @@ http://localhost:3000
 - Easy project structure
 
 
+## AI contributed to:
+- Exploring and applying FastAPI best practices
+- Structuring REST API endpoints in a clean and maintainable way
+- Improving code readability and organization
+- Assisting in writing and refining test cases
+- Enhancing documentation and formatting (README and project notes)
+- Identifying and resolving errors more efficiently
+
+All core business logic, API flow, and implementation details were thoughtfully reviewed, customized, and built manually to ensure the project reflects the developer’s own design and decision-making.
+
 
 
 
